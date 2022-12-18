@@ -4,7 +4,7 @@ import os
 #add path
 path = ""
 
-#add playlist link (make sure to set plalist as public)
+#add playlist link (make sure to set playlist as public)
 playlist = Playlist("")
   
 for video in playlist.videos:
